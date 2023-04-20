@@ -24,6 +24,6 @@ pipeline {
 
 }
 environment {
-  registry = 'dmytro108 / cicdepam'
+  registry = 'dmytro108/cicdepam'
 }
 }
